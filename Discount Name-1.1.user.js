@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Discount Name
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Fetches discount information from sale items and displays it in the Source column on Lines report
 // @author       Etooooo
 // @match        https://*.merchantos.com/*name=reports.sales.listings.transaction_line*
